@@ -1,0 +1,13 @@
+.dashboard {
+    padding: 20px;
+    h1 {
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+  
+    &__summary {
+      display: flex;
+      gap: 20px;
+    }
+  }
+  
